@@ -4,9 +4,8 @@
 * Link to repo: https://github.com/bapch/RE-Tape-Echo
 * This is meant as a lightweight replacement of the AKAI GX-210D's I normally used to play with.
 * Link: https://soundcloud.com/maaark/live-at-echokamer-15-ft-mark
+* Uses the controls from the NanoKontrol scheme here: https://github.com/markijzerman/mijlooper/blob/master/nanokontrol2_scheme.nktrl2_data
 
 
 ### TODO
-* set startup/most used init controls
-* Make proper controls for use on Blokas Pisound with a NanoKontrol MK2
 * Probably also for Organelle
